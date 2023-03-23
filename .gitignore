@@ -1,8 +1,7 @@
 k = int(input ('tupe a number: '))
-x=k//2
-if x is True :
-        print ("it is a pair number")
+x=k%2
+if x == 0 :
+      print ("it is a pair number")
 else : 
-        x  is False 
-        print ("it is an unpaired number")
+      print ("it is an unpaired number")
 print("dOnE")      
