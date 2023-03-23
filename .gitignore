@@ -1,5 +1,5 @@
 k = int(input ('tupe a number: '))
-x=k/2>=6
+x=k//2
 if x is True :
         print ("it is a pair number")
 else : 
