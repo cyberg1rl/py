@@ -1,4 +1,4 @@
-k = int(input ('tupe a number: '))
+k = int(input ('type a number: '))
 if  k%2 == 0 :
       print ("it is a pair number")
 else : 
